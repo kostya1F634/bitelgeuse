@@ -1,14 +1,10 @@
-<h1 align="center">Hi 👋, I'm Kostya</h1>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kostya1f634&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&custom_title=Github%20Stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kostya1f634&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
+</div>
 
-<h3 align="center">😴 My Stats:</h3>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kostya1F634&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="kostya1F634" /></p>
+<img src="https://raw.githubusercontent.com/kostya1f634/kostya1f634/output/snake.svg" alt="Snake animation" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kostya1F634&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="kostya1F634" /></p>
-
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kostya1F634&theme=darkhub&column=6&margin-w=15&margin-h=15&no-frame=true&title=MultiLanguage,Stars,Followers,Experience,Repositories,Commits" alt="kostya1F634" />
-  </a> 
-</p>
-
+###
